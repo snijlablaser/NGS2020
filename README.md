@@ -10,5 +10,4 @@ For more information, including assembly instructions, check www.NGS2020.nl
 Developed by www.snijlab.nl and partners in response to the 2020 COVID-19 outbreak.
 
 
-![Photo of the NGS2020 Face Shield](http://face-shield.jaspervanloenen.com/assets/img/img_3.jpg
-)
+![Photo of the NGS2020 Face Shield](https://raw.githubusercontent.com/snijlablaser/NGS2020/master/ngs2020.jpg)
